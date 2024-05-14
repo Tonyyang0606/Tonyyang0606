@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 It's Tony! 
+🙎‍♂️🏖️Hello！You can call me RuoGu Yang or Tony
 
 <!--
-**Tonyyang0606/Tonyyang0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tonyyang0606/Tonyyang0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m a Sophomore UG in [@SUSTech](https://www.sustech.edu.cn/) <br>
+- 🌱 I’m currently learning **computer science**
+- 👯 My interested research fields: **operating system**
+- I love Lara Croft very much 😎
+- 📫How to reach me:
+ +  Campus Email`12213043@mail.sustech.edu.cn`
+ +  Personal account `229899325@qq.com`
+- Major hobbies: doing `Cycling` , `power-lifting`,`rowing` regularly
