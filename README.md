@@ -18,4 +18,11 @@
 - 📫How to reach me:
  +  Campus Email`12213043@mail.sustech.edu.cn`
  +  Personal account `229899325@qq.com`
-- Major hobbies: doing `Cycling` , `power-lifting`,`rowing` regularly
+- Exercise hobbies: doing `Cycling` , `power-lifting`,`rowing` regularly
+- Currently a member of the rowing team at Southern University of Science and Technology
+- I lile classical music very much, among those extraodinary composer, I like Ludwig van Beethoven,Sergei Vassilievitch Rachmaninoff and Peter Ilyich Tchaikovsky
+
+
+  - Favorite Piano Concerto: Rachmaninoff Piano Concerto No.2 in c minor，Op.18
+  - Favorite Violin Concerto： Violin Concerto, Op.35 (Tchaikovsky, Pyotr)
+  - Favorite symphony: Symphony No.5, Op.67 (Beethoven, Ludwig van)
