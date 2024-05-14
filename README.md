@@ -20,7 +20,7 @@
  +  Personal account `229899325@qq.com`
 - Exercise hobbies: doing `Cycling` , `power-lifting`,`rowing` regularly
 - Currently a member of the rowing team at Southern University of Science and Technology
-- I lile classical music very much, among those extraodinary composer, I like Ludwig van Beethoven,Sergei Vassilievitch Rachmaninoff and Peter Ilyich Tchaikovsky
+- I lile classical music very much, among those extraodinary composers, I like Ludwig van Beethoven,Sergei Vassilievitch Rachmaninoff and Peter Ilyich Tchaikovsky best
 
 
   - Favorite Piano Concerto: Rachmaninoff Piano Concerto No.2 in c minor，Op.18
