@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m a Sophomore UG in [@SUSTech](https://www.sustech.edu.cn/) <br>
+- 🔭 I’m a junior UG in [@SUSTech](https://www.sustech.edu.cn/) <br>
 - 🌱 I’m currently learning **computer science**
 - 👯 My interested research fields: **operating system**
 - I love Lara Croft very much 😎
