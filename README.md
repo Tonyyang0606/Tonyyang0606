@@ -11,15 +11,14 @@
 
 
 
-- 🔭 I’m a junior UG in [@SUSTech](https://www.sustech.edu.cn/) <br>
+- 🔭 I’m a junior UG in [@SUSTech](https://www.sustech.edu.cn/) , summer intern at UCdavis<br>
 - 🌱 I’m currently learning **computer science**
-- 👯 My interested research fields: **operating system**
-- I love Lara Croft very much 😎
+- 👯 My interested research fields: **system security and AI-driven security**
 - 📫How to reach me:
  +  Campus Email`12213043@mail.sustech.edu.cn`
  +  Personal account `229899325@qq.com`
 - Exercise hobbies: doing `Cycling` , `power-lifting`,`rowing` regularly
-- Currently a member of the rowing team at Southern University of Science and Technology
+- Currently captain of the rowing team at Southern University of Science and Technology
 - I like classical music very much, among those extraodinary composers, I like Ludwig van Beethoven,Sergei Vassilievitch Rachmaninoff and Peter Ilyich Tchaikovsky best
 
 
