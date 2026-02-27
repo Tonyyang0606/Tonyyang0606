@@ -17,5 +17,5 @@
  +  Campus Email`12213043@mail.sustech.edu.cn`
  +  Personal account `ruoguyang26@gmail.com`
 - Exercise hobbies: doing `Cycling` , `power-lifting`,`rowing` regularly
-- Currently captain of the rowing team at Southern University of Science and Technology
+- Former captain of the rowing team at Southern University of Science and Technology
 - I like classical music very much!
