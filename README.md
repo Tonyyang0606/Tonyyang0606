@@ -12,7 +12,7 @@
 
 - 🔭 I’m a senior UG in [@SUSTech](https://www.sustech.edu.cn/) , summer intern at UCdavis<br>
 - 🌱 I’m currently learning **computer science**
-- 👯 My interested research fields: **software security and program analysis**
+- 👯 My interested research fields: **Software Engineering and operating system, program analysis**
 - 📫How to reach me:
  +  Campus Email`12213043@mail.sustech.edu.cn`
  +  Personal account `ruoguyang26@gmail.com`
